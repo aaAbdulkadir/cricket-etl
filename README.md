@@ -73,3 +73,21 @@ Make folder for ETL script and Unit Testing.
     ```bash
     source venv/bin/activate
     ```
+
+### Setting up Poetry
+
+N/A
+
+### Setting up Selenium Locally
+
+1. Download chrome driver
+
+    - Currently have chrome v112, so download driver 112. (Download windows driver)
+
+
+
+
+Note: airflow automation will be different.
+
+
+
