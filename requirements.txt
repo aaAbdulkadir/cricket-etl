@@ -1,4 +1,7 @@
 pandas
 numpy
-selenium
+beautifulsoup4
 apache-airflow
+requests
+pytest
+lxml
