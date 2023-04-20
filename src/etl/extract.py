@@ -17,7 +17,7 @@ def get_card(soup):
 def get_each_card_href(cards):
     return [card.find('a') ['href'] for card in cards]
 
-def scrape_links_main_page():
+def scrape_links_main_page(URL=URL):
     web = get_page(URL)
     soup = get_soup(web)
     cards = get_card(soup)
@@ -86,18 +86,8 @@ def concat_all_data(links):
         return None
     return pd.concat(df_list, ignore_index=True)
 
-# """RUN SCRIPT"""
-# links = scrape_links_main_page()
-# table = concat_all_data(links)
-# table.to_csv('data/scraped_data.csv')
+"""RUN SCRIPT"""
+links = scrape_links_main_page()
+table = concat_all_data(links)
+table.to_csv('data/scraped_data.csv')
 
-
-def sample_page():
-    with open('sample_data/main.html') as f:
-        content = f.read()
-    return content
-
-
-soup = get_soup(sample_page())
-cards = get_card(soup)
-print(['https://www.espncricinfo.com/' + link for link in get_each_card_href(cards)])
