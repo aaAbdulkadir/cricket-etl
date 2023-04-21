@@ -41,3 +41,6 @@ def test_concat_all_data(sample_page_main):
     assert len(df) > 0
     assert all(col in df.columns for col in ["name", 'runs', 'balls_faced', 'fours', 'sixes', 'batted_out', 'date'])
 
+# using real depenency i.e. live URL
+def test_extract():
+    assert extract().shape[0] == 467

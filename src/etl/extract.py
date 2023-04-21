@@ -17,7 +17,7 @@ def get_card(soup):
 def get_each_card_href(cards):
     return [card.find('a') ['href'] for card in cards]
 
-def scrape_links_main_page(URL=URL):
+def scrape_links_main_page():
     web = get_page(URL)
     soup = get_soup(web)
     cards = get_card(soup)
@@ -86,8 +86,11 @@ def concat_all_data(links):
         return None
     return pd.concat(df_list, ignore_index=True)
 
-"""RUN SCRIPT"""
-links = scrape_links_main_page()
-table = concat_all_data(links)
-table.to_csv('data/scraped_data.csv')
+def extract():
+    links = scrape_links_main_page() # get links
+    table = concat_all_data(links) # get final df
+    table.to_csv('data/scraped_data.csv') # save df
+    return table
 
+"""RUN SCRIPT"""
+extract()
