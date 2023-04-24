@@ -123,7 +123,13 @@ chmod +x "chromedriver/stable/chromedriver"
 ```
 
 
-### 
+### Extract
+
+### Transform
+
+### Load
+
+Loading into SQLite database:
 
 
 
