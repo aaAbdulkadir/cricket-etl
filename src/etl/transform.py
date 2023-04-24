@@ -34,9 +34,11 @@ def get_transformed_data():
     df = pd.read_csv(cleaned_data)
     total_stats = get_total_stats(df)
     games_played_count = get_games_played_count(df)
+    df = join_total_stats_with_games_count(total_stats, games_played_count)
     df.to_csv(transformed_data)
-    return join_total_stats_with_games_count(total_stats, games_played_count)
+    return df
 
 """RUN SCRIPT"""
 print(get_raw_cleaned_data())
 print(get_transformed_data())
+

@@ -43,4 +43,4 @@ def test_concat_all_data(sample_page_main):
 
 # using real depenency i.e. live URL
 def test_extract():
-    assert extract().shape[0] == 467
+    assert extract().shape[0] == 548

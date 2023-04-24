@@ -1,468 +1,143 @@
-,Unnamed: 0,name,runs,balls_faced,fours,sixes,batted_out,date
-0,0,Devon Conway,1,6,0,0,yes, March 31
-1,1,Ruturaj Gaikwad,92,50,4,9,yes, March 31
-2,2,Moeen Ali,23,17,4,1,yes, March 31
-3,3,Ben Stokes,7,6,1,0,yes, March 31
-4,4,Ambati Rayudu,12,12,0,1,yes, March 31
-5,5,Shivam Dube,19,18,0,1,yes, March 31
-6,6,Ravindra Jadeja,1,2,0,0,yes, March 31
-7,7,MS Dhoni,14,7,1,1,no, March 31
-8,8,Mitchell Santner,1,3,0,0,no, March 31
-9,9,Wriddhiman Saha,25,16,2,2,yes, March 31
-10,10,Shubman Gill,63,36,6,3,yes, March 31
-11,11,Sai Sudharsan,22,17,3,0,yes, March 31
-12,12,Hardik Pandya,8,11,0,0,yes, March 31
-13,13,Vijay Shankar,27,21,2,1,yes, March 31
-14,14,Rahul Tewatia,15,14,1,1,no, March 31
-15,15,Rashid Khan,10,3,1,1,no, March 31
-16,16,Prabhsimran Singh,23,12,2,2,yes, April 01
-17,17,Shikhar Dhawan,40,29,6,0,yes, April 01
-18,18,Bhanuka Rajapaksa,50,32,5,2,yes, April 01
-19,19,Jitesh Sharma,21,11,1,2,yes, April 01
-20,20,Sikandar Raza,16,13,1,1,yes, April 01
-21,21,Sam Curran,26,17,0,2,no, April 01
-22,22,M Shahrukh Khan,11,7,2,0,no, April 01
-23,23,Mandeep Singh,2,4,0,0,yes, April 01
-24,24,Rahmanullah Gurbaz,22,16,3,1,yes, April 01
-25,25,Anukul Roy,4,5,1,0,yes, April 01
-26,26,Venkatesh Iyer,34,28,3,1,yes, April 01
-27,27,Nitish Rana,24,17,3,1,yes, April 01
-28,28,Rinku Singh,4,4,0,0,yes, April 01
-29,29,Andre Russell,35,19,3,2,yes, April 01
-30,30,Shardul Thakur,8,3,0,1,no, April 01
-31,31,Sunil Narine,7,2,0,1,no, April 01
-32,32,KL Rahul,8,12,0,1,yes, April 01
-33,33,Kyle Mayers,73,38,2,7,yes, April 01
-34,34,Deepak Hooda,17,18,0,0,yes, April 01
-35,35,Krunal Pandya,15,13,0,1,no, April 01
-36,36,Marcus Stoinis,12,10,0,1,yes, April 01
-37,37,Nicholas Pooran,36,21,2,3,yes, April 01
-38,38,Ayush Badoni,18,7,1,2,yes, April 01
-39,39,Krishnappa Gowtham,6,1,0,1,no, April 01
-40,40,Prithvi Shaw,12,9,2,0,yes, April 01
-41,41,David Warner,56,48,7,0,yes, April 01
-42,42,Mitchell Marsh,0,1,0,0,yes, April 01
-43,43,Sarfaraz Khan,4,9,1,0,yes, April 01
-44,44,Rilee Rossouw,30,20,3,1,yes, April 01
-45,45,Rovman Powell,1,3,0,0,yes, April 01
-46,46,Aman Hakim Khan,4,5,0,0,yes, April 01
-47,47,Axar Patel,16,11,1,1,yes, April 01
-48,48,Kuldeep Yadav,6,10,0,0,no, April 01
-49,49,Chetan Sakariya,4,4,1,0,yes, April 01
-50,50,Mukesh Kumar,0,1,0,0,no, April 01
-51,51,Yashasvi Jaiswal,54,37,9,0,yes, April 02
-52,52,Jos Buttler,54,22,7,3,yes, April 02
-53,53,Sanju Samson,55,32,3,4,yes, April 02
-54,54,Devdutt Padikkal,2,5,0,0,yes, April 02
-55,55,Riyan Parag,7,6,1,0,yes, April 02
-56,56,Shimron Hetmyer,22,16,1,1,no, April 02
-57,57,Ravichandran Ashwin,1,2,0,0,no, April 02
-58,58,Abhishek Sharma,0,3,0,0,yes, April 02
-59,59,Mayank Agarwal,27,23,3,0,yes, April 02
-60,60,Rahul Tripathi,0,2,0,0,yes, April 02
-61,61,Harry Brook,13,21,1,0,yes, April 02
-62,62,Washington Sundar,1,5,0,0,yes, April 02
-63,63,Glenn Phillips,8,6,0,1,yes, April 02
-64,64,Abdul Samad,32,32,2,1,no, April 02
-65,65,Adil Rashid,18,13,1,1,yes, April 02
-66,66,Bhuvneshwar Kumar,6,10,0,0,yes, April 02
-67,67,Umran Malik,19,8,1,2,no, April 02
-68,68,Rohit Sharma,1,10,0,0,yes, April 02
-69,69,Ishan Kishan,10,13,2,0,yes, April 02
-70,70,Cameron Green,5,4,1,0,yes, April 02
-71,71,Suryakumar Yadav,15,16,1,0,yes, April 02
-72,72,Tilak Varma,84,46,9,4,no, April 02
-73,73,Nehal Wadhera,21,13,1,2,yes, April 02
-74,74,Tim David,4,7,0,0,yes, April 02
-75,75,Hrithik Shokeen,5,3,1,0,yes, April 02
-76,76,Arshad Khan,15,9,0,1,no, April 02
-77,77,Virat Kohli,82,49,6,5,no, April 02
-78,78,Faf du Plessis,73,43,5,6,yes, April 02
-79,79,Dinesh Karthik,0,3,0,0,yes, April 02
-80,80,Glenn Maxwell,12,3,0,2,no, April 02
-81,81,Ruturaj Gaikwad,57,31,3,4,yes, April 03
-82,82,Devon Conway,47,29,5,2,yes, April 03
-83,83,Shivam Dube,27,16,1,3,yes, April 03
-84,84,Moeen Ali,19,13,3,0,yes, April 03
-85,85,Ben Stokes,8,8,1,0,yes, April 03
-86,86,Ambati Rayudu,27,14,2,2,no, April 03
-87,87,Ravindra Jadeja,3,6,0,0,yes, April 03
-88,88,MS Dhoni,12,3,0,2,yes, April 03
-89,89,Mitchell Santner,1,1,0,0,no, April 03
-90,90,KL Rahul,20,18,2,0,yes, April 03
-91,91,Kyle Mayers,53,22,8,2,yes, April 03
-92,92,Deepak Hooda,2,6,0,0,yes, April 03
-93,93,Krunal Pandya,9,9,0,1,yes, April 03
-94,94,Marcus Stoinis,21,18,0,1,yes, April 03
-95,95,Nicholas Pooran,32,18,2,3,yes, April 03
-96,96,Ayush Badoni,23,18,0,0,yes, April 03
-97,97,Krishnappa Gowtham,17,11,0,1,no, April 03
-98,98,Mark Wood,10,3,1,1,no, April 03
-99,99,David Warner,37,32,7,0,yes, April 04
-100,100,Prithvi Shaw,7,5,1,0,yes, April 04
-101,101,Mitchell Marsh,4,4,1,0,yes, April 04
-102,102,Sarfaraz Khan,30,34,2,0,yes, April 04
-103,103,Rilee Rossouw,0,1,0,0,yes, April 04
-104,104,Abishek Porel,20,11,0,2,yes, April 04
-105,105,Axar Patel,36,22,2,3,yes, April 04
-106,106,Aman Hakim Khan,8,8,0,1,yes, April 04
-107,107,Kuldeep Yadav,1,1,0,0,no, April 04
-108,108,Anrich Nortje,4,2,1,0,no, April 04
-109,109,Wriddhiman Saha,14,7,2,1,yes, April 04
-110,110,Shubman Gill,14,13,3,0,yes, April 04
-111,111,Sai Sudharsan,62,48,4,2,no, April 04
-112,112,Hardik Pandya,5,4,1,0,yes, April 04
-113,113,Vijay Shankar,29,23,3,0,yes, April 04
-114,114,David Miller,31,16,2,2,no, April 04
-115,115,Prabhsimran Singh,60,34,7,3,yes, April 05
-116,116,Shikhar Dhawan,86,56,9,3,no, April 05
-117,117,Bhanuka Rajapaksa,1,1,0,0,yes, April 05
-118,118,Jitesh Sharma,27,16,2,1,yes, April 05
-119,119,Sikandar Raza,1,2,0,0,yes, April 05
-120,120,M Shahrukh Khan,11,10,1,0,yes, April 05
-121,121,Sam Curran,1,2,0,0,no, April 05
-122,122,Yashasvi Jaiswal,11,8,1,1,yes, April 05
-123,123,Ravichandran Ashwin,0,4,0,0,yes, April 05
-124,124,Jos Buttler,19,11,1,1,yes, April 05
-125,125,Sanju Samson,42,25,5,1,yes, April 05
-126,126,Devdutt Padikkal,21,26,1,0,yes, April 05
-127,127,Riyan Parag,20,12,1,2,yes, April 05
-128,128,Shimron Hetmyer,36,18,1,3,yes, April 05
-129,129,Dhruv Jurel,32,15,3,2,no, April 05
-130,130,Jason Holder,1,1,0,0,no, April 05
-131,131,Rahmanullah Gurbaz,57,44,6,3,yes, April 06
-132,132,Venkatesh Iyer,3,7,0,0,yes, April 06
-133,133,Mandeep Singh,0,1,0,0,yes, April 06
-134,134,Nitish Rana,1,5,0,0,yes, April 06
-135,135,Rinku Singh,46,33,2,3,yes, April 06
-136,136,Andre Russell,0,1,0,0,yes, April 06
-137,137,Shardul Thakur,68,29,9,3,yes, April 06
-138,138,Sunil Narine,0,1,0,0,no, April 06
-139,139,Umesh Yadav,6,2,1,0,no, April 06
-140,140,Virat Kohli,21,18,3,0,yes, April 06
-141,141,Faf du Plessis,23,12,2,2,yes, April 06
-142,142,Michael Bracewell,19,18,1,1,yes, April 06
-143,143,Glenn Maxwell,5,7,1,0,yes, April 06
-144,144,Harshal Patel,0,2,0,0,yes, April 06
-145,145,Shahbaz Ahmed,1,5,0,0,yes, April 06
-146,146,Dinesh Karthik,9,8,1,0,yes, April 06
-147,147,Anuj Rawat,1,5,0,0,yes, April 06
-148,148,David Willey,20,20,2,0,no, April 06
-149,149,Karn Sharma,1,3,0,0,yes, April 06
-150,150,Akash Deep,17,8,2,1,yes, April 06
-151,151,Anmolpreet Singh,31,26,3,1,yes, April 07
-152,152,Mayank Agarwal,8,7,1,0,yes, April 07
-153,153,Rahul Tripathi,34,41,4,0,yes, April 07
-154,154,Aiden Markram,0,1,0,0,yes, April 07
-155,155,Harry Brook,3,4,0,0,yes, April 07
-156,156,Washington Sundar,16,28,0,0,yes, April 07
-157,157,Abdul Samad,21,10,1,2,no, April 07
-158,158,Adil Rashid,4,3,1,0,yes, April 07
-159,159,Umran Malik,0,0,0,0,yes, April 07
-160,160,Bhuvneshwar Kumar,0,0,0,0,no, April 07
-161,161,Kyle Mayers,13,14,2,0,yes, April 07
-162,162,KL Rahul,35,31,4,0,yes, April 07
-163,163,Deepak Hooda,7,8,0,1,yes, April 07
-164,164,Krunal Pandya,34,23,4,1,yes, April 07
-165,165,Marcus Stoinis,10,13,2,0,no, April 07
-166,166,Romario Shepherd,0,1,0,0,yes, April 07
-167,167,Nicholas Pooran,11,6,1,1,no, April 07
-168,168,Yashasvi Jaiswal,60,31,11,1,yes, April 08
-169,169,Jos Buttler,79,51,11,1,yes, April 08
-170,170,Sanju Samson,0,4,0,0,yes, April 08
-171,171,Riyan Parag,7,11,0,0,yes, April 08
-172,172,Shimron Hetmyer,39,21,1,4,no, April 08
-173,173,Dhruv Jurel,8,3,0,1,no, April 08
-174,174,Prithvi Shaw,0,3,0,0,yes, April 08
-175,175,David Warner,65,55,7,0,yes, April 08
-176,176,Manish Pandey,0,1,0,0,yes, April 08
-177,177,Rilee Rossouw,14,12,2,0,yes, April 08
-178,178,Lalit Yadav,38,24,5,0,yes, April 08
-179,179,Axar Patel,2,6,0,0,yes, April 08
-180,180,Rovman Powell,2,2,0,0,yes, April 08
-181,181,Abishek Porel,7,9,1,0,yes, April 08
-182,182,Kuldeep Yadav,3,7,0,0,no, April 08
-183,183,Anrich Nortje,0,1,0,0,yes, April 08
-184,184,Mukesh Kumar,1,1,0,0,no, April 08
-185,185,Rohit Sharma,21,13,3,1,yes, April 08
-186,186,Ishan Kishan,32,21,5,0,yes, April 08
-187,187,Cameron Green,12,11,1,0,yes, April 08
-188,188,Suryakumar Yadav,1,2,0,0,yes, April 08
-189,189,Tilak Varma,22,18,2,1,yes, April 08
-190,190,Arshad Khan,2,4,0,0,yes, April 08
-191,191,Tim David,31,22,1,2,yes, April 08
-192,192,Tristan Stubbs,5,10,0,0,yes, April 08
-193,193,Hrithik Shokeen,18,13,3,0,no, April 08
-194,194,Piyush Chawla,5,6,0,0,no, April 08
-195,195,Devon Conway,0,4,0,0,yes, April 08
-196,196,Ruturaj Gaikwad,40,36,2,1,no, April 08
-197,197,Ajinkya Rahane,61,27,7,3,yes, April 08
-198,198,Shivam Dube,28,26,2,1,yes, April 08
-199,199,Ambati Rayudu,20,16,3,0,no, April 08
-200,200,Wriddhiman Saha,17,17,3,0,yes, April 09
-201,201,Shubman Gill,39,31,5,0,yes, April 09
-202,202,Sai Sudharsan,53,38,3,2,yes, April 09
-203,203,Abhinav Manohar,14,8,3,0,yes, April 09
-204,204,Vijay Shankar,63,24,4,5,no, April 09
-205,205,David Miller,2,3,0,0,no, April 09
-206,206,Rahmanullah Gurbaz,15,12,1,1,yes, April 09
-207,207,Narayan Jagadeesan,6,8,1,0,yes, April 09
-208,208,Venkatesh Iyer,83,40,8,5,yes, April 09
-209,209,Nitish Rana,45,29,4,3,yes, April 09
-210,210,Rinku Singh,48,21,1,6,no, April 09
-211,211,Andre Russell,1,2,0,0,yes, April 09
-212,212,Sunil Narine,0,1,0,0,yes, April 09
-213,213,Shardul Thakur,0,1,0,0,yes, April 09
-214,214,Umesh Yadav,5,6,0,0,no, April 09
-215,215,Prabhsimran Singh,0,1,0,0,yes, April 09
-216,216,Shikhar Dhawan,99,66,12,5,no, April 09
-217,217,Matthew Short,1,3,0,0,yes, April 09
-218,218,Jitesh Sharma,4,9,1,0,yes, April 09
-219,219,Sam Curran,22,15,3,1,yes, April 09
-220,220,Sikandar Raza,5,6,0,0,yes, April 09
-221,221,M Shahrukh Khan,4,3,1,0,yes, April 09
-222,222,Harpreet Brar,1,2,0,0,yes, April 09
-223,223,Rahul Chahar,0,8,0,0,yes, April 09
-224,224,Nathan Ellis,0,5,0,0,yes, April 09
-225,225,Mohit Rathee,1,2,0,0,no, April 09
-226,226,Harry Brook,13,14,3,0,yes, April 09
-227,227,Mayank Agarwal,21,20,3,0,yes, April 09
-228,228,Rahul Tripathi,74,48,10,3,no, April 09
-229,229,Aiden Markram,37,21,6,0,no, April 09
-230,230,Virat Kohli,61,44,4,4,yes, April 10
-231,231,Faf du Plessis,79,46,5,5,no, April 10
-232,232,Glenn Maxwell,59,29,3,6,yes, April 10
-233,233,Dinesh Karthik,1,1,0,0,no, April 10
-234,234,Kyle Mayers,0,3,0,0,yes, April 10
-235,235,KL Rahul,18,20,1,0,yes, April 10
-236,236,Deepak Hooda,9,10,1,0,yes, April 10
-237,237,Krunal Pandya,0,2,0,0,yes, April 10
-238,238,Marcus Stoinis,65,30,6,5,yes, April 10
-239,239,Nicholas Pooran,62,19,4,7,yes, April 10
-240,240,Ayush Badoni,30,24,4,0,yes, April 10
-241,241,Jaydev Unadkat,9,7,1,0,yes, April 10
-242,242,Mark Wood,1,2,0,0,yes, April 10
-243,243,Ravi Bishnoi,3,2,0,0,no, April 10
-244,244,Avesh Khan,0,1,0,0,no, April 10
-245,245,David Warner,51,47,6,0,yes, April 11
-246,246,Prithvi Shaw,15,10,3,0,yes, April 11
-247,247,Manish Pandey,26,18,5,0,yes, April 11
-248,248,Yash Dhull,2,4,0,0,yes, April 11
-249,249,Rovman Powell,4,4,1,0,yes, April 11
-250,250,Lalit Yadav,2,4,0,0,yes, April 11
-251,251,Axar Patel,54,25,4,5,yes, April 11
-252,252,Abishek Porel,1,3,0,0,yes, April 11
-253,253,Kuldeep Yadav,0,1,0,0,yes, April 11
-254,254,Anrich Nortje,5,3,1,0,yes, April 11
-255,255,Mustafizur Rahman,1,1,0,0,no, April 11
-256,256,Rohit Sharma,65,45,6,4,yes, April 11
-257,257,Ishan Kishan,31,26,6,0,yes, April 11
-258,258,Tilak Varma,41,29,1,4,yes, April 11
-259,259,Suryakumar Yadav,0,1,0,0,yes, April 11
-260,260,Tim David,13,11,0,1,no, April 11
-261,261,Cameron Green,17,8,1,1,no, April 11
-262,262,Yashasvi Jaiswal,10,8,2,0,yes, April 12
-263,263,Jos Buttler,52,36,1,3,yes, April 12
-264,264,Devdutt Padikkal,38,26,5,0,yes, April 12
-265,265,Sanju Samson,0,2,0,0,yes, April 12
-266,266,Ravichandran Ashwin,30,22,1,2,yes, April 12
-267,267,Shimron Hetmyer,30,18,2,2,no, April 12
-268,268,Dhruv Jurel,4,6,0,0,yes, April 12
-269,269,Jason Holder,0,1,0,0,yes, April 12
-270,270,Adam Zampa,1,1,0,0,yes, April 12
-271,271,Ruturaj Gaikwad,8,10,1,0,yes, April 12
-272,272,Devon Conway,50,38,6,0,yes, April 12
-273,273,Ajinkya Rahane,31,19,2,1,yes, April 12
-274,274,Shivam Dube,8,9,1,0,yes, April 12
-275,275,Moeen Ali,7,10,0,0,yes, April 12
-276,276,Ambati Rayudu,1,2,0,0,yes, April 12
-277,277,Ravindra Jadeja,25,15,1,2,no, April 12
-278,278,MS Dhoni,32,17,1,3,no, April 12
-279,279,Prabhsimran Singh,0,2,0,0,yes, April 13
-280,280,Shikhar Dhawan,8,8,2,0,yes, April 13
-281,281,Matthew Short,36,24,6,1,yes, April 13
-282,282,Bhanuka Rajapaksa,20,26,1,0,yes, April 13
-283,283,Jitesh Sharma,25,23,5,0,yes, April 13
-284,284,Sam Curran,22,22,1,1,yes, April 13
-285,285,M Shahrukh Khan,22,9,1,2,yes, April 13
-286,286,Harpreet Brar,8,5,0,1,no, April 13
-287,287,Rishi Dhawan,1,1,0,0,yes, April 13
-288,288,Wriddhiman Saha,30,19,5,0,yes, April 13
-289,289,Shubman Gill,67,49,7,1,yes, April 13
-290,290,Sai Sudharsan,19,20,2,0,yes, April 13
-291,291,Hardik Pandya,8,11,1,0,yes, April 13
-292,292,David Miller,17,18,1,0,no, April 13
-293,293,Rahul Tewatia,5,2,1,0,no, April 13
-294,294,Harry Brook,100,55,12,3,no, April 14
-295,295,Mayank Agarwal,9,13,0,0,yes, April 14
-296,296,Rahul Tripathi,9,4,2,0,yes, April 14
-297,297,Aiden Markram,50,26,2,5,yes, April 14
-298,298,Abhishek Sharma,32,17,3,2,yes, April 14
-299,299,Heinrich Klaasen,16,6,2,1,no, April 14
-300,300,Rahmanullah Gurbaz,0,3,0,0,yes, April 14
-301,301,Narayan Jagadeesan,36,21,5,1,yes, April 14
-302,302,Venkatesh Iyer,10,11,2,0,yes, April 14
-303,303,Sunil Narine,0,1,0,0,yes, April 14
-304,304,Nitish Rana,75,41,5,6,yes, April 14
-305,305,Andre Russell,3,6,0,0,yes, April 14
-306,306,Rinku Singh,58,31,4,4,no, April 14
-307,307,Shardul Thakur,12,7,2,0,yes, April 14
-308,308,Umesh Yadav,1,1,0,0,no, April 14
-309,309,Virat Kohli,50,34,6,1,yes, April 15
-310,310,Faf du Plessis,22,16,3,1,yes, April 15
-311,311,Mahipal Lomror,26,18,0,2,yes, April 15
-312,312,Glenn Maxwell,24,14,0,3,yes, April 15
-313,313,Harshal Patel,6,4,0,1,yes, April 15
-314,314,Shahbaz Ahmed,20,12,3,0,no, April 15
-315,315,Dinesh Karthik,0,1,0,0,yes, April 15
-316,316,Anuj Rawat,15,22,1,0,no, April 15
-317,317,David Warner,19,13,4,0,yes, April 15
-318,318,Prithvi Shaw,0,2,0,0,yes, April 15
-319,319,Mitchell Marsh,0,4,0,0,yes, April 15
-320,320,Yash Dhull,1,4,0,0,yes, April 15
-321,321,Manish Pandey,50,38,5,1,yes, April 15
-322,322,Abishek Porel,5,8,0,0,yes, April 15
-323,323,Axar Patel,21,14,3,0,yes, April 15
-324,324,Aman Hakim Khan,18,10,1,1,yes, April 15
-325,325,Lalit Yadav,4,7,0,0,yes, April 15
-326,326,Anrich Nortje,23,14,4,0,no, April 15
-327,327,Kuldeep Yadav,7,6,1,0,no, April 15
-328,328,KL Rahul,74,56,8,1,yes, April 15
-329,329,Kyle Mayers,29,23,1,3,yes, April 15
-330,330,Deepak Hooda,2,3,0,0,yes, April 15
-331,331,Krunal Pandya,18,17,2,0,yes, April 15
-332,332,Nicholas Pooran,0,1,0,0,yes, April 15
-333,333,Marcus Stoinis,15,11,0,2,yes, April 15
-334,334,Ayush Badoni,5,6,0,0,no, April 15
-335,335,Krishnappa Gowtham,1,2,0,0,yes, April 15
-336,336,Yudhvir Singh,0,1,0,0,yes, April 15
-337,337,Ravi Bishnoi,3,1,0,0,no, April 15
-338,338,Atharva Taide,0,3,0,0,yes, April 15
-339,339,Prabhsimran Singh,4,4,1,0,yes, April 15
-340,340,Matthew Short,34,22,5,1,yes, April 15
-341,341,Harpreet Singh,22,22,3,0,yes, April 15
-342,342,Sikandar Raza,57,41,4,3,yes, April 15
-343,343,Sam Curran,6,6,1,0,yes, April 15
-344,344,Jitesh Sharma,2,4,0,0,yes, April 15
-345,345,M Shahrukh Khan,23,10,1,2,no, April 15
-346,346,Harpreet Brar,6,4,1,0,yes, April 15
-347,347,Kagiso Rabada,0,1,0,0,no, April 15
-348,348,Rahmanullah Gurbaz,8,12,0,0,yes, April 16
-349,349,Narayan Jagadeesan,0,5,0,0,yes, April 16
-350,350,Venkatesh Iyer,104,51,6,9,yes, April 16
-351,351,Nitish Rana,5,10,0,0,yes, April 16
-352,352,Shardul Thakur,13,11,1,0,yes, April 16
-353,353,Rinku Singh,18,18,2,0,yes, April 16
-354,354,Andre Russell,21,11,3,1,no, April 16
-355,355,Sunil Narine,2,2,0,0,no, April 16
-356,356,Rohit Sharma,20,13,1,2,yes, April 16
-357,357,Ishan Kishan,58,25,5,5,yes, April 16
-358,358,Suryakumar Yadav,43,25,4,3,yes, April 16
-359,359,Tilak Varma,30,25,3,1,yes, April 16
-360,360,Tim David,24,13,1,2,no, April 16
-361,361,Nehal Wadhera,6,4,1,0,yes, April 16
-362,362,Cameron Green,1,1,0,0,no, April 16
-363,363,Wriddhiman Saha,4,3,1,0,yes, April 16
-364,364,Shubman Gill,45,34,4,1,yes, April 16
-365,365,Sai Sudharsan,20,19,2,0,yes, April 16
-366,366,Hardik Pandya,28,19,3,1,yes, April 16
-367,367,David Miller,46,30,3,2,yes, April 16
-368,368,Abhinav Manohar,27,13,0,3,yes, April 16
-369,369,Rahul Tewatia,1,1,0,0,no, April 16
-370,370,Rashid Khan,1,1,0,0,yes, April 16
-371,371,Alzarri Joseph,0,0,0,0,no, April 16
-372,372,Yashasvi Jaiswal,1,7,0,0,yes, April 16
-373,373,Jos Buttler,0,5,0,0,yes, April 16
-374,374,Devdutt Padikkal,26,25,2,2,yes, April 16
-375,375,Sanju Samson,60,32,3,6,yes, April 16
-376,376,Riyan Parag,5,7,0,0,yes, April 16
-377,377,Shimron Hetmyer,56,26,2,5,no, April 16
-378,378,Dhruv Jurel,18,10,2,1,yes, April 16
-379,379,Ravichandran Ashwin,10,3,1,1,yes, April 16
-380,380,Trent Boult,0,1,0,0,no, April 16
-381,381,Ruturaj Gaikwad,3,6,0,0,yes, April 17
-382,382,Devon Conway,83,45,6,6,yes, April 17
-383,383,Ajinkya Rahane,37,20,3,2,yes, April 17
-384,384,Shivam Dube,52,27,2,5,yes, April 17
-385,385,Ambati Rayudu,14,6,1,1,yes, April 17
-386,386,Moeen Ali,19,9,0,2,no, April 17
-387,387,Ravindra Jadeja,10,8,0,1,yes, April 17
-388,388,MS Dhoni,1,1,0,0,no, April 17
-389,389,Virat Kohli,6,4,1,0,yes, April 17
-390,390,Faf du Plessis,62,33,5,4,yes, April 17
-391,391,Mahipal Lomror,0,5,0,0,yes, April 17
-392,392,Glenn Maxwell,76,36,3,8,yes, April 17
-393,393,Shahbaz Ahmed,12,10,0,1,yes, April 17
-394,394,Dinesh Karthik,28,14,3,1,yes, April 17
-395,395,Suyash Prabhudessai,19,11,0,2,yes, April 17
-396,396,Wayne Parnell,2,5,0,0,yes, April 17
-397,397,Wanindu Hasaranga de Silva,2,2,0,0,no, April 17
-398,398,Rohit Sharma,28,18,6,0,yes, April 18
-399,399,Ishan Kishan,38,31,3,2,yes, April 18
-400,400,Cameron Green,64,40,6,2,no, April 18
-401,401,Suryakumar Yadav,7,3,0,1,yes, April 18
-402,402,Tilak Varma,37,17,2,4,yes, April 18
-403,403,Tim David,16,11,2,0,yes, April 18
-404,404,Harry Brook,9,7,2,0,yes, April 18
-405,405,Mayank Agarwal,48,41,4,1,yes, April 18
-406,406,Rahul Tripathi,7,5,1,0,yes, April 18
-407,407,Aiden Markram,22,17,1,1,yes, April 18
-408,408,Abhishek Sharma,1,2,0,0,yes, April 18
-409,409,Heinrich Klaasen,36,16,4,2,yes, April 18
-410,410,Abdul Samad,9,12,1,0,yes, April 18
-411,411,Marco Jansen,13,6,3,0,yes, April 18
-412,412,Washington Sundar,10,6,2,0,yes, April 18
-413,413,Bhuvneshwar Kumar,2,5,0,0,yes, April 18
-414,414,Mayank Markande,2,2,0,0,no, April 18
-415,415,KL Rahul,39,32,4,1,yes, April 19
-416,416,Kyle Mayers,51,42,4,3,yes, April 19
-417,417,Ayush Badoni,1,4,0,0,yes, April 19
-418,418,Deepak Hooda,2,4,0,0,yes, April 19
-419,419,Marcus Stoinis,21,16,2,0,yes, April 19
-420,420,Nicholas Pooran,29,20,2,1,yes, April 19
-421,421,Krunal Pandya,4,2,1,0,no, April 19
-422,422,Yudhvir Singh,1,1,0,0,yes, April 19
-423,423,Yashasvi Jaiswal,44,35,4,2,yes, April 19
-424,424,Jos Buttler,40,41,4,1,yes, April 19
-425,425,Sanju Samson,2,4,0,0,yes, April 19
-426,426,Devdutt Padikkal,26,21,4,0,yes, April 19
-427,427,Shimron Hetmyer,2,5,0,0,yes, April 19
-428,428,Riyan Parag,15,12,1,1,no, April 19
-429,429,Dhruv Jurel,0,1,0,0,yes, April 19
-430,430,Ravichandran Ashwin,3,2,0,0,no, April 19
-431,431,Virat Kohli,59,47,5,1,yes, April 20
-432,432,Faf du Plessis,84,56,5,5,yes, April 20
-433,433,Glenn Maxwell,0,1,0,0,yes, April 20
-434,434,Dinesh Karthik,7,5,1,0,yes, April 20
-435,435,Mahipal Lomror,7,9,1,0,no, April 20
-436,436,Shahbaz Ahmed,5,3,0,0,no, April 20
-437,437,Atharva Taide,4,2,1,0,yes, April 20
-438,438,Prabhsimran Singh,46,30,3,4,yes, April 20
-439,439,Matthew Short,8,7,0,1,yes, April 20
-440,440,Liam Livingstone,2,4,0,0,yes, April 20
-441,441,Harpreet Singh,13,9,1,1,yes, April 20
-442,442,Sam Curran,10,12,1,0,yes, April 20
-443,443,Jitesh Sharma,41,27,2,3,yes, April 20
-444,444,M Shahrukh Khan,7,5,0,1,yes, April 20
-445,445,Harpreet Brar,13,13,1,0,yes, April 20
-446,446,Nathan Ellis,1,2,0,0,yes, April 20
-447,447,Arshdeep Singh,0,0,0,0,no, April 20
-448,448,Jason Roy,43,39,5,1,yes, April 20
-449,449,Litton Das,4,4,1,0,yes, April 20
-450,450,Venkatesh Iyer,0,2,0,0,yes, April 20
-451,451,Nitish Rana,4,7,1,0,yes, April 20
-452,452,Mandeep Singh,12,11,0,1,yes, April 20
-453,453,Rinku Singh,6,8,1,0,yes, April 20
-454,454,Sunil Narine,4,6,1,0,yes, April 20
-455,455,Andre Russell,38,31,1,4,no, April 20
-456,456,Anukul Roy,0,1,0,0,yes, April 20
-457,457,Umesh Yadav,3,5,0,0,yes, April 20
-458,458,Varun Chakravarthy,1,6,0,0,yes, April 20
-459,459,David Warner,57,41,11,0,yes, April 20
-460,460,Prithvi Shaw,13,11,2,0,yes, April 20
-461,461,Mitchell Marsh,2,9,0,0,yes, April 20
-462,462,Phil Salt,5,3,1,0,yes, April 20
-463,463,Manish Pandey,21,23,2,0,yes, April 20
-464,464,Axar Patel,19,22,1,0,no, April 20
-465,465,Aman Hakim Khan,0,2,0,0,yes, April 20
-466,466,Lalit Yadav,4,7,0,0,no, April 20
+,name,runs,balls_faced,fours,sixes,count
+38,Faf du Plessis,405,245,33,25,7
+35,Devon Conway,314,219,33,12,7
+30,David Warner,285,236,42,0,6
+134,Virat Kohli,279,197,25,11,7
+109,Ruturaj Gaikwad,270,183,14,17,7
+55,KL Rahul,262,230,27,3,7
+131,Venkatesh Iyer,254,159,21,16,7
+39,Glenn Maxwell,253,134,13,23,7
+54,Jos Buttler,244,168,24,9,7
+61,Kyle Mayers,243,161,19,16,7
+116,Shikhar Dhawan,233,159,29,8,4
+103,Rinku Singh,233,148,13,17,7
+119,Shubman Gill,228,165,25,5,6
+140,Yashasvi Jaiswal,227,163,32,6,7
+124,Tilak Varma,217,139,17,14,6
+8,Ajinkya Rahane,209,105,18,11,5
+117,Shimron Hetmyer,188,113,7,15,7
+118,Shivam Dube,184,117,8,15,6
+112,Sanju Samson,181,114,13,12,7
+88,Nitish Rana,181,129,17,11,7
+106,Rohit Sharma,179,126,20,10,6
+110,Sai Sudharsan,176,142,14,4,5
+87,Nicholas Pooran,171,92,11,15,7
+48,Ishan Kishan,170,120,21,7,6
+27,Cameron Green,166,107,15,6,6
+34,Devdutt Padikkal,165,137,19,3,6
+91,Prabhsimran Singh,159,100,14,11,7
+44,Harry Brook,156,114,21,3,6
+22,Axar Patel,148,100,11,9,6
+52,Jitesh Sharma,145,97,11,10,7
+97,Rahul Tripathi,145,121,18,4,6
+71,Marcus Stoinis,144,99,10,9,7
+111,Sam Curran,142,103,11,8,7
+138,Wriddhiman Saha,137,99,19,3,6
+132,Vijay Shankar,129,80,10,6,4
+122,Suryakumar Yadav,123,73,12,7,6
+7,Aiden Markram,121,77,10,6,5
+41,Hardik Pandya,115,95,7,5,5
+74,Mayank Agarwal,115,108,11,1,6
+125,Tim David,113,77,4,7,6
+13,Andre Russell,107,76,7,8,7
+50,Jason Roy,104,65,10,6,2
+59,Krunal Pandya,103,89,9,4,7
+94,Rahmanullah Gurbaz,102,87,10,5,5
+29,David Miller,102,79,6,4,5
+115,Shardul Thakur,101,51,12,4,5
+69,Manish Pandey,97,80,12,1,4
+36,Dhruv Jurel,96,51,7,6,6
+73,Matthew Short,90,66,13,3,5
+23,Ayush Badoni,85,65,5,2,6
+12,Ambati Rayudu,83,59,7,4,6
+120,Sikandar Raza,79,62,5,4,4
+65,M Shahrukh Khan,78,44,6,5,7
+43,Harpreet Singh,76,59,8,3,3
+79,Moeen Ali,74,55,8,3,5
+25,Bhanuka Rajapaksa,71,59,6,2,3
+46,Heinrich Klaasen,69,38,7,3,3
+3,Abhishek Sharma,67,48,6,3,4
+1,Abdul Samad,62,54,4,3,3
+37,Dinesh Karthik,61,45,7,1,7
+66,MS Dhoni,61,31,2,6,5
+101,Ravindra Jadeja,57,39,1,5,5
+100,Ravichandran Ashwin,56,39,4,3,6
+105,Riyan Parag,54,48,3,3,5
+62,Lalit Yadav,48,42,5,0,4
+93,Prithvi Shaw,47,40,8,0,6
+102,Rilee Rossouw,44,33,5,1,3
+2,Abhinav Manohar,44,26,3,3,3
+84,Narayan Jagadeesan,43,37,6,1,4
+67,Mahipal Lomror,41,38,2,2,4
+33,Deepak Hooda,41,51,1,1,7
+114,Shahbaz Ahmed,40,34,3,1,5
+136,Washington Sundar,36,45,3,0,4
+113,Sarfaraz Khan,34,43,3,0,2
+4,Abishek Porel,33,31,1,2,4
+42,Harpreet Brar,33,26,3,1,5
+20,Atharva Taide,33,22,4,1,3
+15,Anrich Nortje,32,20,6,0,4
+14,Anmolpreet Singh,31,26,3,1,1
+70,Marco Jansen,30,28,4,0,2
+11,Aman Hakim Khan,30,25,1,2,4
+86,Nehal Wadhera,27,18,2,2,3
+58,Krishnappa Gowtham,24,14,0,2,3
+32,David Willey,24,22,3,0,2
+96,Rahul Tewatia,23,19,2,1,4
+47,Hrithik Shokeen,23,16,4,0,2
+6,Adil Rashid,22,16,2,1,2
+123,Suyash Prabhudessai,19,13,0,2,2
+76,Michael Bracewell,19,18,1,1,1
+128,Umesh Yadav,19,18,1,0,5
+129,Umran Malik,19,8,1,2,2
+60,Kuldeep Yadav,17,25,1,0,5
+18,Arshad Khan,17,13,0,1,2
+9,Akash Deep,17,8,2,1,1
+16,Anuj Rawat,16,27,1,0,2
+24,Ben Stokes,15,14,2,0,2
+68,Mandeep Singh,14,16,0,1,3
+121,Sunil Narine,13,16,1,1,7
+63,Liam Livingstone,12,16,0,1,2
+72,Mark Wood,11,5,1,1,2
+98,Rashid Khan,11,4,1,1,2
+51,Jaydev Unadkat,9,7,1,0,1
+26,Bhuvneshwar Kumar,8,15,0,0,3
+40,Glenn Phillips,8,6,0,1,1
+135,Wanindu Hasaranga de Silva,8,9,0,0,2
+108,Rovman Powell,7,9,1,0,3
+99,Ravi Bishnoi,6,4,0,0,3
+45,Harshal Patel,6,6,0,1,2
+77,Mitchell Marsh,6,18,1,0,4
+127,Tristan Stubbs,5,10,0,0,1
+89,Phil Salt,5,3,1,0,1
+90,Piyush Chawla,5,6,0,0,1
+17,Anukul Roy,4,6,1,0,2
+64,Litton Das,4,4,1,0,1
+28,Chetan Sakariya,4,4,1,0,1
+139,Yash Dhull,3,8,0,0,2
+137,Wayne Parnell,2,5,0,0,1
+75,Mayank Markande,2,2,0,0,1
+78,Mitchell Santner,2,4,0,0,2
+130,Varun Chakravarthy,1,9,0,0,2
+0,Abdul Basith,1,1,0,0,1
+57,Karn Sharma,1,3,0,0,1
+81,Mohit Rathee,1,2,0,0,1
+5,Adam Zampa,1,1,0,0,1
+31,David Wiese,1,2,0,0,1
+49,Jason Holder,1,2,0,0,2
+53,Jofra Archer,1,2,0,0,1
+104,Rishi Dhawan,1,1,0,0,1
+80,Mohammed Siraj,1,1,0,0,1
+141,Yudhvir Singh,1,2,0,0,2
+82,Mukesh Kumar,1,2,0,0,2
+83,Mustafizur Rahman,1,1,0,0,1
+85,Nathan Ellis,1,7,0,0,2
+56,Kagiso Rabada,0,1,0,0,1
+133,Vijaykumar Vyshak,0,1,0,0,1
+126,Trent Boult,0,1,0,0,1
+92,Prerak Mankad,0,0,0,0,1
+21,Avesh Khan,0,1,0,0,1
+19,Arshdeep Singh,0,0,0,0,1
+10,Alzarri Joseph,0,0,0,0,1
+95,Rahul Chahar,0,8,0,0,1
+107,Romario Shepherd,0,1,0,0,1
