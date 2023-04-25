@@ -74,53 +74,6 @@ Make folder for ETL script and Unit Testing.
     source venv/bin/activate
     ```
 
-### Setting up Poetry
-
-N/A
-
-### Setting up Selenium with WSL
-
-***Not using selenium anymore***
-
-https://cloudbytes.dev/snippets/run-selenium-and-chrome-on-wsl2
-
-1. Download chrome on wsl:
-
-```bash
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-```
-
-```bash
-sudo dpkg -i google-chrome-stable_current_amd64.deb
-```
-
-```bash
-sudo apt --fix-broken install
-```
-
-```bash
-google-chrome-stable --version
-```
-
-2. Install chromedriver for correct chrome version
-
-```bash
-chrome_driver=$(curl "https://chromedriver.storage.googleapis.com/LATEST_RELEASE") && \
-echo "$chrome_driver"
-```
-```bash
-curl -Lo chromedriver_linux64.zip "https://chromedriver.storage.googleapis.com/\
-${chrome_driver}/chromedriver_linux64.zip"
-```
-```bash
-sudo apt install unzip
-```
-
-```bash
-mkdir -p "chromedriver/stable" && \
-unzip -q "chromedriver_linux64.zip" -d "chromedriver/stable" && \
-chmod +x "chromedriver/stable/chromedriver"
-```
 
 
 ### Extract
@@ -146,5 +99,42 @@ sqlite3 cricket.db
 .tables
 ```
 
+### Airflow 
 
+Running Airflow on Docker:
+
+1. Set up
+
+```bash
+curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.5.3/docker-compose.yaml'
+```
+
+```bash
+mkdir -p ./dags ./logs ./plugins
+```
+
+```bash
+echo -e "AIRFLOW_UID=$(id -u)" > .env
+```
+
+2. Starting up docker
+
+    - Initiliase
+    ```bash
+    cd airflow
+    ```
+    
+    ```bash
+    docker compose up airflow-init
+    ```
+
+    ```bash
+    docker-compose build
+    ```
+
+    - Start
+
+    ```bash 
+    docker-compose up -d
+    ```
 
