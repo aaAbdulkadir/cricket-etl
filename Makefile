@@ -8,7 +8,6 @@ transform:
 	python src/etl/transform.py
 test-transform:
 	python -m pytest tests/test_transform.py
-
 load:
 	python src/etl/load.py
 test-load:

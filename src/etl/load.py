@@ -13,6 +13,8 @@ def load_data(filepath):
 
 def send_to_sqlite(df, table_name):
     conn = make_connection(db_name)
+    cursor = conn.cursor()
+    cursor.execute("DROP TABLE IF EXISTS " + table_name)
     df.to_sql(table_name, con=conn)
     conn.close()
 
