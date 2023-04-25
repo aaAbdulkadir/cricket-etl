@@ -1,8 +1,8 @@
 import pandas as pd
 
 data_path = 'data/scraped_data.csv'
-cleaned_data = 'data/cleaned_scraped_data.csv'
-transformed_data = 'data/transformed_data.csv'
+cleaned_data_path = 'data/cleaned_scraped_data.csv'
+transformed_data_path = 'data/transformed_data.csv'
 
 def load_data(filepath):
     return pd.read_csv(filepath, index_col=0)
@@ -18,7 +18,7 @@ def get_raw_cleaned_data():
     df = load_data(data_path)
     clean_name(df)
     batted_out_bool(df)
-    df.to_csv(cleaned_data)
+    df.to_csv(cleaned_data_path)
     return df
 
 def get_games_played_count(df):
@@ -31,14 +31,18 @@ def join_total_stats_with_games_count(stats_df, counts_df):
     return stats_df.merge(counts_df, how='left', on='name').sort_values(by='runs', ascending=False)
 
 def get_transformed_data():
-    df = pd.read_csv(cleaned_data)
+    df = pd.read_csv(cleaned_data_path)
     total_stats = get_total_stats(df)
     games_played_count = get_games_played_count(df)
     df = join_total_stats_with_games_count(total_stats, games_played_count)
-    df.to_csv(transformed_data)
+    df.to_csv(transformed_data_path)
     return df
 
+def transform():
+    print(get_raw_cleaned_data())
+    print(get_transformed_data())
+    print('Data transformed.')
+
 """RUN SCRIPT"""
-print(get_raw_cleaned_data())
-print(get_transformed_data())
+transform()
 

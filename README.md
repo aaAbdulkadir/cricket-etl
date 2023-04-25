@@ -129,7 +129,22 @@ chmod +x "chromedriver/stable/chromedriver"
 
 ### Load
 
-Loading into SQLite database:
+SQLite CLI:
+
+- Start Sqlite3 database
+
+```bash
+sqlite3 <dbname.db>
+```
+```bash
+sqlite3 cricket.db
+```
+
+- See tables
+
+```bash
+.tables
+```
 
 
 

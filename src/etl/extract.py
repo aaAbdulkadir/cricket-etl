@@ -90,6 +90,7 @@ def extract():
     links = scrape_links_main_page() # get links
     table = concat_all_data(links) # get final df
     table.to_csv('data/scraped_data.csv') # save df
+    print('Data extracted.')
     return table
 
 """RUN SCRIPT"""
